@@ -1,0 +1,159 @@
+[33mcommit 8021720d722bd5898c1c0109f9212376ce3b9f38[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Felipe Arian <felipearian10197@gmail.com>
+Date:   Mon Feb 28 23:31:19 2022 -0300
+
+    kanye_quotes
+
+[33mcommit 2249d6546ca72956f45c4f15df63ffc87fbdd246[m
+Author: Felipe Arian <felipearian10197@gmail.com>
+Date:   Sat Feb 26 11:12:46 2022 -0300
+
+    100movies
+
+[33mcommit 8526ac606637fbddcc2e1b3efbc0d90cf53703d4[m
+Author: Felipe Arian <felipearian10197@gmail.com>
+Date:   Fri Feb 25 00:36:04 2022 -0300
+
+    stock_news
+
+[33mcommit d35ca1bd049fe64b5190803edfe9cc43b8e45a0f[m
+Author: Felipe Arian <felipearian10197@gmail.com>
+Date:   Wed Feb 23 00:52:34 2022 -0300
+
+    rain_alert
+
+[33mcommit cd058ee74b3dd79809c91f40e0718938a91a3b8e[m
+Author: Felipe Arian <felipearian10197@gmail.com>
+Date:   Tue Feb 22 05:29:46 2022 -0300
+
+    quizzlerapp
+
+[33mcommit 5d6a264e43616230c62ebdc3d668bd3395913fd2[m
+Author: Felipe Arian <felipearian10197@gmail.com>
+Date:   Fri Feb 18 02:40:34 2022 -0300
+
+    issoverhead
+
+[33mcommit b82b02216cb52f5bb90b451b5e0a92a968a784d6[m
+Author: Felipe Arian <felipearian10197@gmail.com>
+Date:   Wed Feb 16 23:17:45 2022 -0300
+
+    birthday-wisher
+
+[33mcommit 13082dc1472ae0aabb50fd3644e0cfbfff365e9c[m
+Author: Felipe Arian <felipearian10197@gmail.com>
+Date:   Tue Feb 15 23:12:18 2022 -0300
+
+    Password-manager
+
+[33mcommit 5449003f5f80995d25d86735db58b81d221a0db6[m
+Author: Felipe Arian <felipearian10197@gmail.com>
+Date:   Sat Feb 12 20:34:06 2022 -0300
+
+    Pomodoro
+
+[33mcommit ac72cd63239d4b08a2823c4caf0ba5f21d05ee13[m
+Author: Felipe Arian <felipearian10197@gmail.com>
+Date:   Thu Feb 10 11:07:28 2022 -0300
+
+    Miles_to_Killometers
+
+[33mcommit b29d6a3b702b5c375b0fcee5680bb9f6f4940327[m
+Author: Felipe Arian Galeão Nunes <94389838+felipenunes07@users.noreply.github.com>
+Date:   Wed Feb 9 22:10:49 2022 -0300
+
+    Phonetic_alphabet
+
+[33mcommit e23ef5c298285c681daa081f942f5059099fb9fd[m
+Author: Felipe Arian <felipearian10197@gmail.com>
+Date:   Wed Feb 9 22:07:35 2022 -0300
+
+    Revert "Revert "Project11 - Phonetic_alphabet""
+    
+    This reverts commit 17dc46e1105cbec9646b7df12c34d20a893c149f.
+
+[33mcommit 17dc46e1105cbec9646b7df12c34d20a893c149f[m
+Author: Felipe Arian <felipearian10197@gmail.com>
+Date:   Wed Feb 9 22:07:35 2022 -0300
+
+    Revert "Project11 - Phonetic_alphabet"
+    
+    This reverts commit 2192d40b3a0ae263bfad650c5a21a4ae41e7762d.
+
+[33mcommit 2192d40b3a0ae263bfad650c5a21a4ae41e7762d[m
+Author: Felipe Arian <felipearian10197@gmail.com>
+Date:   Wed Feb 9 22:07:35 2022 -0300
+
+    Project11 - Phonetic_alphabet
+
+[33mcommit d09686f881a3b9bc5bab2b3974b66a2f481a8003[m
+Author: Felipe Arian <felipearian10197@gmail.com>
+Date:   Wed Feb 9 22:06:04 2022 -0300
+
+    Project11 - Phonetic_alphabet
+
+[33mcommit 22a4fd9890ac6c4862fd9df3e9d60af1f3f33d91[m
+Author: Felipe Arian <felipearian10197@gmail.com>
+Date:   Mon Feb 7 23:19:57 2022 -0300
+
+    us-states-game
+
+[33mcommit 3f8e4b2d957338aaf18c6f6b4c7c75f53caf360d[m
+Author: Felipe Arian <felipearian10197@gmail.com>
+Date:   Wed Feb 2 02:11:22 2022 -0300
+
+    Snake Game
+
+[33mcommit 2116c10e31581bfb4cd70bc7fa8f955d67ea0656[m
+Author: Felipe Arian <felipearian10197@gmail.com>
+Date:   Tue Feb 1 21:37:47 2022 -0300
+
+    Scketch
+
+[33mcommit 05c31e0d0abef43b59203ee67947c2e029997fa0[m
+Author: Felipe Arian <felipearian10197@gmail.com>
+Date:   Sun Jan 30 23:33:34 2022 -0300
+
+    Turtle Race
+
+[33mcommit b4f0c632a59f49c88dd24bd18c5df769e3016995[m
+Author: Felipe Arian <felipearian10197@gmail.com>
+Date:   Sat Jan 29 23:40:57 2022 -0300
+
+    Turtle Graphics
+
+[33mcommit 590311a8561e55f3204aec45c799c50d521a9ad8[m
+Author: Felipe Arian Galeão Nunes <felipearian10197@gmail.com>
+Date:   Sat Jan 22 01:01:11 2022 -0300
+
+    Coffee Machine
+
+[33mcommit de5b23443e495cedb6f31b33dd102e2fea3689a2[m
+Author: Felipe Arian Galeão Nunes <felipearian10197@gmail.com>
+Date:   Sun Jan 16 22:11:02 2022 -0300
+
+    Blackjack
+
+[33mcommit eb0abaf632e05571335fdcf4116456378772b0a4[m
+Author: Felipe Arian Galeão Nunes <felipearian10197@gmail.com>
+Date:   Wed Jan 12 23:25:50 2022 -0300
+
+    Secret Auction
+
+[33mcommit e253976def432ef083ff58d8757da224ed9f47e0[m
+Author: Felipe Arian Galeão Nunes <felipearian10197@gmail.com>
+Date:   Wed Jan 12 05:20:19 2022 -0300
+
+    caesar-cipher
+
+[33mcommit b9bdde93fc860fe4537e5cdcc1c80b2446c7898d[m
+Author: Felipe Arian Galeão Nunes <felipearian10197@gmail.com>
+Date:   Wed Jan 12 01:56:55 2022 -0300
+
+    Hangman
+
+[33mcommit 7fcfd7706098285dd8bb4eb0d1cc0301a3e270a9[m
+Author: Felipe Arian Galeão Nunes <felipearian10197@gmail.com>
+Date:   Wed Jan 12 01:56:09 2022 -0300
+
+    Initial commit
