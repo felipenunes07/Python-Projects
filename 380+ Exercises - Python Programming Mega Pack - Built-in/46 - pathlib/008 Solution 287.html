@@ -1,0 +1,10 @@
+<pre class="prettyprint linenums">from pathlib import Path
+
+
+path = Path.cwd() / 'reports'
+
+if not path.is_dir():
+    path.mkdir()
+
+for item in sorted(Path.cwd().iterdir()):
+    print(item)</pre>

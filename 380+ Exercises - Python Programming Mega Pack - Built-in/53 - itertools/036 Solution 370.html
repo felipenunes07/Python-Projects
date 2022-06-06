@@ -1,0 +1,8 @@
+<pre class="prettyprint linenums">import itertools
+
+
+iterator = itertools.product('abc', [1, 2, 3])
+iter1, iter2 = itertools.tee(iterator, 2)
+
+print(list(iter1))
+print(list(iter2))</pre>

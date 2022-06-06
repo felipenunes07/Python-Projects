@@ -1,0 +1,11 @@
+<pre class="prettyprint linenums">import itertools
+
+
+data = [1, 5, 3, 4, 6, 9, 3]
+
+func = lambda x: 'even' if x % 2 == 0 else 'odd'
+sorted_data = sorted(data, key=func)
+grouped_data = itertools.groupby(sorted_data, key=func)
+
+for key, group in grouped_data:
+    print(f'{key} -&gt; {list(group)}')</pre>

@@ -1,0 +1,7 @@
+<pre class="prettyprint linenums">import csv
+
+
+with open('apple.csv', 'r') as file:
+    reader = csv.reader(file, delimiter=',')
+    for row in reader:
+        print(','.join(row))</pre>

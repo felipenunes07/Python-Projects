@@ -1,0 +1,10 @@
+<pre class="prettyprint linenums">from collections import namedtuple
+
+
+Point = namedtuple(typename='Point', field_names=['x', 'y'])
+
+pt1 = Point(3, 4)
+pt2 = Point(-2, 6)
+
+avg_pt = Point((pt1.x + pt2.x) / 2.0, (pt1.y + pt2.y) / 2.0)
+print(avg_pt)</pre>

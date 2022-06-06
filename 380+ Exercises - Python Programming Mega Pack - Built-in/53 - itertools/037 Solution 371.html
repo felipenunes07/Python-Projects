@@ -1,0 +1,11 @@
+<pre class="prettyprint linenums">import itertools
+
+
+def pairwise(iterable):
+    a, b = itertools.tee(iterable)
+    next(b)
+    return zip(a, b)
+
+print(f'[3, 5, 1, 8, 9, 4] -&gt; {list(pairwise([3, 5, 1, 8, 9, 4]))}')
+print(f"['a', 'b', 'c', 'd', 'e'] -&gt; {list(pairwise(['a', 'b', 'c', 'd', 'e']))}")
+print(f"'Python' -&gt; {list(pairwise('Python'))}")</pre>

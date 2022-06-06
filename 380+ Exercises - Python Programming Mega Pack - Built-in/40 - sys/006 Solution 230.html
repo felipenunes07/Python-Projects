@@ -1,0 +1,9 @@
+<pre class="prettyprint linenums">import sys
+
+
+if len(sys.argv) &gt; 1:
+    values = [int(value) for value in sys.argv[1:]]
+    result = sum(values) / len(values)
+    print(f'Average: {result:.4f}')
+else:
+    print('No values were given.')</pre>

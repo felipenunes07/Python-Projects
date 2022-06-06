@@ -1,0 +1,11 @@
+<pre class="prettyprint linenums">from collections import Counter
+
+
+poll_1 = {'yes': 140, 'no': 120, None: 12}
+poll_2 = {'yes': 113, 'no': 132, None: 9}
+
+cnt_1 = Counter(poll_1)
+cnt_2 = Counter(poll_2)
+
+cnt_total = cnt_1 + cnt_2
+print(cnt_total)</pre>

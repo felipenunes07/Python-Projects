@@ -1,0 +1,8 @@
+<pre class="prettyprint linenums">import itertools
+
+
+letters = list('ABCDEFGH')
+numbers = [str(i) for i in range(1, 9)]
+chessboard = itertools.product(letters, numbers)
+chessboard = [''.join(fields) for fields in chessboard]
+print(chessboard)</pre>

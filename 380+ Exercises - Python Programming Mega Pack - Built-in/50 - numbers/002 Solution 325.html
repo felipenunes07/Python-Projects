@@ -1,0 +1,7 @@
+<pre class="prettyprint linenums">import numbers
+
+
+values = [2.0, 2, '2.0', '2', None, False, True]
+
+for value in values:
+    print(f'{str(value).ljust(6)}: {str(type(value)).ljust(18)} : {isinstance(value, numbers.Number)}')</pre>

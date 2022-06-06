@@ -1,0 +1,8 @@
+<pre class="prettyprint linenums">import itertools
+
+
+stocks = ['Apple', 'Microsoft', 'Amazon', 'Google', 'Adidas', 'Audi', 'Siemens']
+
+results = itertools.combinations_with_replacement(stocks, 2)
+for result in results:
+    print(result)</pre>

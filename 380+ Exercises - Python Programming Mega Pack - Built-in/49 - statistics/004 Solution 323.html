@@ -1,0 +1,6 @@
+<pre class="prettyprint linenums">from statistics import NormalDist
+
+
+height = NormalDist(mu=170, sigma=15)
+prob = round(height.cdf(180) - height.cdf(170), 4)
+print(f'Probability: {100 * prob}%')</pre>

@@ -1,0 +1,13 @@
+<pre class="prettyprint linenums">from collections import namedtuple
+
+
+Student = namedtuple(typename='Student', field_names=['name', 'age', 'spec'])
+
+students = [
+    Student('Mike', 21, 'physics'),
+    Student('Kate', 20, 'mathematics'),
+    Student('Bob', 21, 'information technology')
+    ]
+
+for student in students:
+    print(f'{student.name:5}: {student.age}: {student.spec}')</pre>

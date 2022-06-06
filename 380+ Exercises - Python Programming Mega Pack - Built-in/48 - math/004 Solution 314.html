@@ -1,0 +1,14 @@
+<pre class="prettyprint linenums">import math
+
+
+def calculate_seq(n):
+    return (1 + (1 / n)) ** n
+
+
+i = 1
+while True:
+    item = calculate_seq(i)
+    if math.isclose(item, math.e, rel_tol=1e-06):
+        print(i)
+        break
+    i += 1</pre>

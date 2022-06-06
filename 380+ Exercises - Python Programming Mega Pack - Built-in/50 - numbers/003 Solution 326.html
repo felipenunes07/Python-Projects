@@ -1,0 +1,11 @@
+<pre class="prettyprint linenums">import numbers
+
+
+class Phone:
+    
+    def __init__(self, price):
+        if isinstance(price, numbers.Number) and price &gt; 0:
+            self.price = price
+        else:
+            raise TypeError('Parameter \'value\' must be a positive number.')
+    </pre>

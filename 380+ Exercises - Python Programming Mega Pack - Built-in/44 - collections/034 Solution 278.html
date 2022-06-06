@@ -1,0 +1,9 @@
+<pre class="prettyprint linenums">from collections import deque
+
+
+user_ids = ['003', '001', '004', '006', '002', '005']
+
+wishlist = deque(maxlen=3)
+for user_id in user_ids:
+    wishlist.append(user_id)
+    print(wishlist)</pre>

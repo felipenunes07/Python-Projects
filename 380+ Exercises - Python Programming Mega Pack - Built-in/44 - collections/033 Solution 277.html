@@ -1,0 +1,13 @@
+<pre class="prettyprint linenums">from collections import deque
+
+
+user_ids = ['003', '001', '004', None, '002', '005']
+
+wishlist = deque()
+for user_id in user_ids:
+    if user_id is not None:
+        wishlist.append(user_id)
+    else:
+        wishlist.clear()
+
+print(wishlist)</pre>

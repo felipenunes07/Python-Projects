@@ -1,0 +1,19 @@
+<pre class="prettyprint linenums">import itertools
+
+
+data = [{'user': '0032', 'level': 70},
+        {'user': '0034', 'level': 74},
+        {'user': '0233', 'level': 71},
+        {'user': '0532', 'level': 70},
+        {'user': '0634', 'level': 74},
+        {'user': '0245', 'level': 70},
+        {'user': '0235', 'level': 70},
+        {'user': '0255', 'level': 71}]
+
+func = lambda row: row['level']
+sorted_data = sorted(data, key=func)
+grouped_data = itertools.groupby(sorted_data, key=func)
+
+for key, group in grouped_data:
+    print(f'{key} -&gt; ', end='')
+    print([user['user'] for user in group])</pre>
